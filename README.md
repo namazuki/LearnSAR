@@ -1,2 +1,4 @@
 # LearnSAR
-Record the learning process.
+
+2021年研一，初学SAR，学习成功汇总成一个报告，并于期末汇报。
+以为记录。
